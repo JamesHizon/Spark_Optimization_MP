@@ -15,3 +15,4 @@ We want to compose a query such that we get for each question also the number of
 5. Reducing the Size of Data Structures
 6. Choosing Data Formats
 
+In addition, attached are three screenshots that display the result dataframe, time it takes to process, and execution plan before and adding repartitioning to reduce shuffling.
